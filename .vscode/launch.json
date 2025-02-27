@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/natpakan_k./Desktop/COM PRO C++/Lab23_Rue_wa_thur_mee_krai_nai_jai_u_laew",
+      "program": "/Users/natpakan_k./Desktop/COM PRO C++/Lab23_Rue_wa_thur_mee_krai_nai_jai_u_laew/build/Debug/outDebug"
+    }
+  ]
+}
